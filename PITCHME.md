@@ -6,7 +6,7 @@
  
 #HSLIDE
 
-# Cons of API
+## Challenges with REST
 
 - Multiple Round Trips To Fetch Related Resources.<!-- .element: class="fragment" -->
 - Over Fetching / Under Fetching.<!-- .element: class="fragment" -->
@@ -15,11 +15,31 @@
 
 #HSLIDE
 
-## What we will cover today ?
-- Data Model <!-- .element: class="fragment" -->
-- Components<!-- .element: class="fragment" -->
+## GraphQL to the rescue
+- GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data <!-- .element: class="fragment" -->
+- With GraphQL we describe in the client which data we want to have instead of just asking all the data.<!-- .element: class="fragment" -->
 - Lifecycle<!-- .element: class="fragment" -->
 
+#HSLIDE
+
+## GraphQL query
+```
+{
+  me {
+    name
+  }
+}
+
+```
+
+## JSON result
+```
+{
+  "me": {
+    "name": "Luke Skywalker"
+  }
+}
+```
 
 #HSLIDE
 
