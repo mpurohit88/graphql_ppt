@@ -1,16 +1,16 @@
 #HSLIDE
 
-# React Part 1
+# GraphQL Basic
 
 <span class="primary"><strong>Mukesh Purohit</strong></span> - 12 May 2020
  
 #HSLIDE
 
-# Why React
+# Cons of API
 
-- React is a view layer that uses virtual DOM for performance.<!-- .element: class="fragment" -->
-- React can be used as the V in MVC.<!-- .element: class="fragment" -->
-- React’s true strengths - composition, unidirectional data flow.<!-- .element: class="fragment" -->
+- Multiple Round Trips To Fetch Related Resources.<!-- .element: class="fragment" -->
+- Over Fetching / Under Fetching.<!-- .element: class="fragment" -->
+- Rapid Product Iterations on the Frontend.<!-- .element: class="fragment" -->
 
 
 #HSLIDE
