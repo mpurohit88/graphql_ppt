@@ -44,13 +44,11 @@
 
 ## What problems does GraphQL solves:
 
-- Giving only the data back to the client, which is asked for<!-- .element: class="fragment" -->
+- Giving only the data back to the client, which is asked for in 1 request from multiple sources.<!-- .element: class="fragment" -->
 - Only 1 request to get data from multiple data sources.<!-- .element: class="fragment" -->
 - No more checking which endpoint you need to have to get your data.<!-- .element: class="fragment" -->
 - Less data needs to be downloaded.<!-- .element: class="fragment" -->
 - Schemas are used in the frontend application’s, which are used to generate data types for the frontend (Typescript).<!-- .element: class="fragment" -->
-- The data structure becomes more predictable.<!-- .element: class="fragment" -->
-- Only 1 request to get data from multiple data sources.<!-- .element: class="fragment" -->
 
 #HSLIDE
 
