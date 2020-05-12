@@ -17,8 +17,8 @@
 
 ## GraphQL to the rescue
 - GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data <!-- .element: class="fragment" -->
+
 - With GraphQL we describe in the client which data we want to have instead of just asking all the data.<!-- .element: class="fragment" -->
-- Lifecycle<!-- .element: class="fragment" -->
 
 #HSLIDE
 
