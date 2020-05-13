@@ -51,7 +51,7 @@
 ![Image](img/apiDesign.jpg)
 
 #HSLIDE
-![Image](img/imageArc.png)
+![Image](img/imageArch.png)
 
 #HSLIDE
 
