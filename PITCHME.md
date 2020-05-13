@@ -115,9 +115,9 @@
    }
 }
 
-- No more crazy parsing logic for JSON data.<!-- .element: class="fragment" -->
-- No specific endpoints for each client.<!-- .element: class="fragment" -->
-- No need for Versioning.<!-- .element: class="fragment" -->
+- No more crazy parsing logic for JSON data.
+- No specific endpoints for each client.
+- No need for Versioning.
 ```
 #HSLIDE
 
