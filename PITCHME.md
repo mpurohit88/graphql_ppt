@@ -15,7 +15,7 @@
 #HSLIDE
 ## GraphQL to Rescue
 
-![Image](img/superGraphQL.jpg)
+![filter=saturate, skewx=20, skewy=-35](img/superGraphQL.jpg)
 
 #HSLIDE
 
