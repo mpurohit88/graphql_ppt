@@ -119,6 +119,10 @@
 
 # Demo
 
+## GraphQL to Rescue
+
+![Image](img/GraphImage.png)
+
 #HSLIDE
 
 # Questions ?
