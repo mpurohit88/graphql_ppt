@@ -31,13 +31,6 @@
 
 #HSLIDE
 
-## What is GraphQL
--GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.<!-- .element: class="fragment" -->
-
--GraphQL isn’t tied to any specific database or storage engine and is instead baked by your existing code and data.<!-- .element: class="fragment" -->
-
-#HSLIDE
-
 ## Similarities & Differences:
 
 - Both are based on the concept of a resource and can specify IDs for resources.<!-- .element: class="fragment" -->
