@@ -128,6 +128,10 @@
 
 #HSLIDE
 
+![Image](img/typesystem.jpg)
+
+#HSLIDE
+
 # Questions ?
 
 #HSLIDE
