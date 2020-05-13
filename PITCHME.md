@@ -48,7 +48,7 @@
 
 #HSLIDE
 
-![Image](img/VapiDesign.jpg)
+![Image](img/apiDesign.jpg)
 
 
 #HSLIDE
