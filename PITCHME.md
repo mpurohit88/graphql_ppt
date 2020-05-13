@@ -21,7 +21,7 @@
 
 ## GraphQL to Rescue
 
-![filter=saturate, skewx=20, skewy=-35](img/self.jpg)
+![filter=saturate, skewx=20, skewy=-35](img/self.jpeg)
 
 #HSLIDE
 
