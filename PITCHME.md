@@ -13,6 +13,8 @@
 - Rapid Product Iterations on the Frontend.<!-- .element: class="fragment" -->
 
 #HSLIDE
+## GraphQL to Rescue
+
 ![Image](img/superGraphQL.jpg)
 
 #HSLIDE
