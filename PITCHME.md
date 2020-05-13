@@ -25,7 +25,7 @@
 
 #HSLIDE
 
-## GraphQL Defination
+## GraphQL Definition
 - GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data <!-- .element: class="fragment" -->
 - With GraphQL we describe in the client which data we want to have instead of just asking all the data.<!-- .element: class="fragment" -->
 
@@ -45,15 +45,6 @@
 - in REST you define the object on Backend and on GraphQL you "define" this object on Frontend.<!-- .element: class="fragment" -->
 - With REST, the server determines the shape and size of the resource whereas, in GraphQL, the server simply declares the available resources and the client can ask for exactly what it needs.<!-- .element: class="fragment" -->
 - REST automatically puts caching into effect whereas GraphQL has no automatic caching system..<!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## More About GraphQL
-
-- GraphQL is a language that enables you to provide a complete and understandable description of the data in your API.<!-- .element: class="fragment" -->
-- GraphQL is declarative: Query responses are decided by the client rather than the server. A GraphQL query returns exactly what a client asks for and no more.<!-- .element: class="fragment" -->
-- GraphQL is compositional: A GraphQL query itself is a hierarchical set of fields. The query is shaped just like the data it returns. It is a natural way for product engineers to describe data requirements.<!-- .element: class="fragment" -->
-- GraphQL is strongly-typed: A GraphQL query can be ensured to be valid within a GraphQL type system at development time allowing the server to make guarantees about the response. This makes it easier to build high-quality client tools.<!-- .element: class="fragment" -->
 
 #HSLIDE
 
