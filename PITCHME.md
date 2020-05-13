@@ -57,6 +57,11 @@
 
 #HSLIDE
 
+![Image](img/VapiDesign.jpg)
+
+
+#HSLIDE
+
 ## GraphQL query
 ```
 {
