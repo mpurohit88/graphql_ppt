@@ -132,6 +132,10 @@
 
 #HSLIDE
 
+![Image](img/Operation.jpg)
+
+#HSLIDE
+
 # Questions ?
 
 #HSLIDE
