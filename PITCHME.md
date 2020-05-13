@@ -12,6 +12,8 @@
 - Over Fetching / Under Fetching.<!-- .element: class="fragment" -->
 - Rapid Product Iterations on the Frontend.<!-- .element: class="fragment" -->
 
+#HSLIDE
+![Image](img/superGraphQL.jpg)
 
 #HSLIDE
 
