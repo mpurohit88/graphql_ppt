@@ -13,15 +13,15 @@
 - Rapid Product Iterations on the Frontend.<!-- .element: class="fragment" -->
 
 #HSLIDE
-## GraphQL to Rescue
 
-![filter=saturate, skewx=20, skewy=-35](img/superGraphQL.jpg)
+## Mukesh to Rescue
+
+![Image](img/self.jpg)
 
 #HSLIDE
-
 ## GraphQL to Rescue
 
-![filter=saturate, skewx=20, skewy=-35](img/self.jpeg)
+![Image](img/superGraphQL.jpg)
 
 #HSLIDE
 
