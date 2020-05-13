@@ -52,7 +52,7 @@
 
 #HSLIDE
 
-### Similarities and Differences:
+## Similarities & Differences:
 
 - Both are based on the concept of a resource and can specify IDs for resources.<!-- .element: class="fragment" -->
 - Both can be fetched via an HTTP request.<!-- .element: class="fragment" -->
@@ -60,7 +60,7 @@
 
 #HSLIDE
 
-### Some Differences b/w GraphQL and REST:
+## Continuee...
 
 - Data fetching with REST causes over- and under-fetching issues whereas this simply isn’t possible with GraphQL.<!-- .element: class="fragment" -->
 - in REST you define the object on Backend and on GraphQL you "define" this object on Frontend.<!-- .element: class="fragment" -->
