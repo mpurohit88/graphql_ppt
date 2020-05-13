@@ -70,9 +70,36 @@
 ## JSON result
 ```
 {
-  "me": {
-    "name": "Luke Skywalker"
+  "data": {
+    "me": {
+      "name": "Luke Skywalker"
+    } 
   }
+}
+```
+
+#HSLIDE
+
+## Query with parameter
+```
+{
+  human(id: "1000") {
+    name
+    height
+  }
+}
+
+```
+
+## JSON result
+```
+{
+  "data": {
+    "human"  {
+       "name": "Vijay K"
+       "height": 5.8
+      }
+   }
 }
 ```
 
