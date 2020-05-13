@@ -47,13 +47,17 @@
 - Giving only the data back to the client, which is asked for in 1 request from multiple sources.<!-- .element: class="fragment" -->
 - No more checking which endpoint you need to have to get your data.<!-- .element: class="fragment" -->
 - Less data needs to be downloaded.<!-- .element: class="fragment" -->
-- Schemas are used in the frontend application’s, which are used to generate data types for the frontend (Typescript).<!-- .element: class="fragment" -->
+- The data structure becomes more predictable.<!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## state
+## More About GraphQL
 
-- Only components defined as classes can have state.<!-- .element: class="fragment" -->
+- GraphQL is a language that enables you to provide a complete and understandable description of the data in your API.<!-- .element: class="fragment" -->
+- GraphQL is an API syntax that defines how to fetch data from one or many databases.<!-- .element: class="fragment" -->
+- GraphQL is declarative: Query responses are decided by the client rather than the server. A GraphQL query returns exactly what a client asks for and no more.<!-- .element: class="fragment" -->
+- GraphQL is compositional: A GraphQL query itself is a hierarchical set of fields. The query is shaped just like the data it returns. It is a natural way for product engineers to describe data requirements.<!-- .element: class="fragment" -->
+- GraphQL is strongly-typed: A GraphQL query can be ensured to be valid within a GraphQL type system at development time allowing the server to make guarantees about the response. This makes it easier to build high-quality client tools.<!-- .element: class="fragment" -->
 
 #HSLIDE
 
