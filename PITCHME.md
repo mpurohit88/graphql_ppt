@@ -42,12 +42,20 @@
 
 #HSLIDE
 
-## What problems does GraphQL solves:
+## Similarities and Differences:
 
-- Giving only the data back to the client, which is asked for in 1 request from multiple sources.<!-- .element: class="fragment" -->
-- No more checking which endpoint you need to have to get your data.<!-- .element: class="fragment" -->
-- Less data needs to be downloaded.<!-- .element: class="fragment" -->
-- The data structure becomes more predictable.<!-- .element: class="fragment" -->
+- Both are based on the concept of a resource and can specify IDs for resources.<!-- .element: class="fragment" -->
+- Both can be fetched via an HTTP request.<!-- .element: class="fragment" -->
+- Both can return JSON data in the request.<!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## Some Differences b/w GraphQL and REST:
+
+- Data fetching with REST causes over- and under-fetching issues whereas this simply isn’t possible with GraphQL.<!-- .element: class="fragment" -->
+- in REST you define the object on Backend and on GraphQL you "define" this object on Frontend.<!-- .element: class="fragment" -->
+- With REST, the server determines the shape and size of the resource whereas, in GraphQL, the server simply declares the available resources and the client can ask for exactly what it needs.<!-- .element: class="fragment" -->
+- REST automatically puts caching into effect whereas GraphQL has no automatic caching system..<!-- .element: class="fragment" -->
 
 #HSLIDE
 
