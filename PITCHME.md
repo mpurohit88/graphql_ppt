@@ -50,6 +50,8 @@
 
 ![Image](img/apiDesign.jpg)
 
+#HSLIDE
+![Image](img/imageArc.png)
 
 #HSLIDE
 
@@ -123,9 +125,6 @@
 - The entities in GraphQL are connected and you can use the connections in the “Graph” to combine data from different entities. The following figure gives you a graphical representation<!-- .element: class="fragment" -->
 
 ![Image](img/GraphImage.png)
-
-#HSLIDE
-![Image](img/imgaeArch.webp)
 
 #HSLIDE
 
